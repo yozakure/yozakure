@@ -1,16 +1,19 @@
-## Hi there 👋
+## こんちゃ！よざくらです！！
 
-<!--
-**yozakure/yozakure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web系の技術やAIに興味を持っている学生です。
+最近ちゃんと学び始めた駆け出しだったりします...
+---
 
-Here are some ideas to get you started:
+### Abouot Me
+🏫 **所属:** 工学系の学校で電子制御やプログラミングの講義を受けているだけ
+💻 **現在の注力分野:** Web系の技術、MS365でのアプリケーション制作
+✨ **趣味:** ゲーム（LoL,Minecraftなど）、漫画を読む
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+笑
+
+### Contact & Links
+**Youtube** https://www.youtube.com/@yozakuretw
+**Twitch** https://www.twitch.tv/yozakure
+**X(Twitter)** https://x.com/yozakuretw
