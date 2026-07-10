@@ -16,4 +16,4 @@ Web系の技術やAIに興味を持っている学生です。 \
 ### Contact & Links
 **Youtube** https://www.youtube.com/@yozakuretw \
 **Twitch** https://www.twitch.tv/yozakure \
-**X(Twitter)** https://x.com/yozakuretw \
+**X(Twitter)** https://x.com/yozakuretw 
